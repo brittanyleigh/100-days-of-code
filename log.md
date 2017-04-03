@@ -16,3 +16,11 @@
 **Thoughts:** Some review, but lots of new info. Really helped improve my understanding of OOP.
 
 **Link to work:** http://beta.freecodecamp.com/en/brittanyleigh
+
+### Day 3: April 3, 2017
+
+**Today's Progress**: Finished about 1/4 of FCC beta Functional Programming
+
+**Thoughts:** Functional programming is confusing!! A lot trickier than I thought, I think I'll put a pause on this section and come back in the future.
+
+**Link to work:** http://beta.freecodecamp.com/en/brittanyleigh
