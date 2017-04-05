@@ -24,3 +24,11 @@
 **Thoughts:** Functional programming is confusing!! A lot trickier than I thought, I think I'll put a pause on this section and come back in the future.
 
 **Link to work:** http://beta.freecodecamp.com/en/brittanyleigh
+
+### Day 4: April 4, 2017
+
+**Today's Progress**: FCC Beta Flexbox and Sass on Team Treehouse
+
+**Thoughts:** Can't believe I haven't been using Sass all along, and I'm excited to play around with Flexbox!
+
+**Link to work:** http://beta.freecodecamp.com/en/brittanyleigh, https://teamtreehouse.com/brittanyisenberg
