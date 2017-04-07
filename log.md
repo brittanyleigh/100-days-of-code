@@ -32,3 +32,19 @@
 **Thoughts:** Can't believe I haven't been using Sass all along, and I'm excited to play around with Flexbox!
 
 **Link to work:** http://beta.freecodecamp.com/en/brittanyleigh, https://teamtreehouse.com/brittanyisenberg
+
+### Day 5: April 5, 2017
+
+**Today's Progress**: More Sass on Treehouse, and worked on adapting an old, little PHP project to my Wordpress site.
+
+**Thoughts:** PHP is stupid.
+
+**Link to work:** https://teamtreehouse.com/brittanyisenberg
+
+### Day 6: April 6, 2017
+
+**Today's Progress**: Learning React on Treehouse & Codecademy
+
+**Thoughts:** Got about 3/4 of the way through the Treehouse React tutorial and started feeling lost, so I switched to Codecademy for a little handholding. I forget how helpful it can be to learn from multiple sources.
+
+**Link to work:** https://www.codecademy.com/brittanyleigh, https://teamtreehouse.com/brittanyisenberg
