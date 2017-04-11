@@ -48,3 +48,33 @@
 **Thoughts:** Got about 3/4 of the way through the Treehouse React tutorial and started feeling lost, so I switched to Codecademy for a little handholding. I forget how helpful it can be to learn from multiple sources.
 
 **Link to work:** https://www.codecademy.com/brittanyleigh, https://teamtreehouse.com/brittanyisenberg
+
+### Day 7: April 7, 2017
+
+**Today's Progress**: Finished React Basics on Treehouse & More React Codecademy
+
+**Thoughts:** React is A LOT to wrap my mind around... I may have to step back from it for a bit
+
+**Link to work:** https://www.codecademy.com/brittanyleigh, https://teamtreehouse.com/brittanyisenberg
+
+### Day 8: April 8, 2017
+
+**Today's Progress**: npm, Babel, and Webpack courses on Treehouse
+
+**Thoughts:** These are generally used along with React, so I wanted to learn them but I'm feeling overwhelmed and my brain is mush!
+
+**Link to work:** https://teamtreehouse.com/brittanyisenberg
+
+### Day 9: April 9, 2017
+
+**Today's Progress**: Took a day off from learning to brainstorm ideas for new portfolio projects
+
+**Thoughts:** My brain needed a rest and some time to reconsider my path forward... I feel like maybe I should focus on building more projects to improve the skills I already have
+
+### Day 10: April 10, 2017
+
+**Today's Progress**: Started You Should Know Javascript books
+
+**Thoughts:** Felt like I needed to get back to foundations, so I'm sticking to plain Javascript for awhile
+
+
