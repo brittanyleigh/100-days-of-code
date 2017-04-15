@@ -73,8 +73,42 @@
 
 ### Day 10: April 10, 2017
 
-**Today's Progress**: Started You Should Know Javascript books
+**Today's Progress**: Started You Dont Know Javascript books
 
 **Thoughts:** Felt like I needed to get back to foundations, so I'm sticking to plain Javascript for awhile
+
+### Day 11: April 11, 2017
+
+**Today's Progress**: Started creating a new baseball stat app using the sportsfeeds api
+
+**Thoughts:** I haven't made a project for fun in awhile so I'm excited! I'm also looking forward to applying flexbox and sass in this project
+
+### Day 12: April 12, 2017
+
+**Today's Progress**: worked on my blog defining REST & SOAP, and finally got my ajax call for my baseball app to work!
+
+**Thoughts:** it's so satisfying to access JSON data in a way you were expecting!
+
+### Day 13: April 13, 2017
+
+**Today's Progress**: Finished 1st YDKJS book, got a basic flexbox layout in place for my bball app
+
+**Thoughts:** really excited to continue YDKJS, I feel like it will help me feel more confident in my understanding and skillset
+
+### Day 14: April 14, 2017
+
+**Today's Progress**: Took the SCRUM & AGILE course on Team Treehouse, continued reading YDKJS
+
+**Thoughts:** Makes me feel a little more job-ready/prepared to finally understand exactly what AGILE development is, and the SCRUM method in particular
+
+### Day 15: April 15, 2017
+
+**Today's Progress**: Continued reading YDKJS & played with styling of my baseball app
+
+**Thoughts:** I think I want to continue a routine of reading/learning so that I can improve my current skills and learn new ones, while at the same time building little projects using the skills I already know
+
+
+
+
 
 
