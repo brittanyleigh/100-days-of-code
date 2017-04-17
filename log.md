@@ -107,6 +107,17 @@
 
 **Thoughts:** I think I want to continue a routine of reading/learning so that I can improve my current skills and learn new ones, while at the same time building little projects using the skills I already know
 
+### Day 16: April 16, 2017
+
+**Today's Progress**: Read Ch.1 & Ch.2 of YDKJS Scope & Closure, blogged about (and finally kind of figured out) the difference between public, private, and protected
+
+**Thoughts:** I'm already feeling like I understand Javascript so much better by finally getting around to reading YDKJS!
+
+### Day 17: April 17, 2017
+
+**Today's Progress**: Finished up stage 1 of my Baseball app! I used Sass to style it, and did some more complex JS to get each team's color to show up
+
+**Thoughts:** It's so satisfying when something works the way you think it should work on the first try! It makes me feel like I'm getting the hang of this stuff. =)
 
 
 
