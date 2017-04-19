@@ -119,6 +119,19 @@
 
 **Thoughts:** It's so satisfying when something works the way you think it should work on the first try! It makes me feel like I'm getting the hang of this stuff. =)
 
+### Day 17: April 17, 2017
+
+**Today's Progress**: Finished up stage 1 of my Baseball app! I used Sass to style it, and did some more complex JS to get each team's color to show up
+
+**Thoughts:** It's so satisfying when something works the way you think it should work on the first try! It makes me feel like I'm getting the hang of this stuff. =)
+
+**Link to work:** https://brittanyleigh.github.io/baseball.html
+
+### Day 18: April 1, 2017
+
+**Today's Progress**: Posted Baseball app project to blog & continued reading YDKJS
+
+**Thoughts:** Not a lot of code today... getting excited for Codeland though!!
 
 
 
