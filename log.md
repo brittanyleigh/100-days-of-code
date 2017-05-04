@@ -127,12 +127,70 @@
 
 **Link to work:** https://brittanyleigh.github.io/baseball.html
 
-### Day 18: April 1, 2017
+### Day 18: April 18, 2017
 
 **Today's Progress**: Posted Baseball app project to blog & continued reading YDKJS
 
 **Thoughts:** Not a lot of code today... getting excited for Codeland though!!
 
+### Day 19: April 19, 2017
 
+**Today's Progress**: Busy getting ready for Codeland, but managed to read some YDKJS
+
+**Thoughts:** So pumped for Codeland!
+
+### Day 20: April 20, 2017
+
+**Today's Progress**: Travel day for Codeland!
+
+### Day 21: April 21, 2017
+
+**Today's Progress**: Codeland Day 1!
+
+**Thoughts:** I LOVE these people. I feel like this is where I belong. =D
+
+### Day 22: April 22, 2017
+
+**Today's Progress**: Codeland Day 2!
+
+**Thoughts:** So flipping motivated and inspired, so much to learn and explore!
+
+### Day 23: April 23, 2017
+
+**Today's Progress**: NYC - ROC travel. I listened to a bunch of coding podcasts, though, that counts right?
+
+### Day 24: April 24, 2017
+
+**Today's Progress**: So tired.... couldn't get anything done today. :(
+
+### Day 25: April 25, 2017
+
+**Today's Progress**: inspired by my Codeland portfolio workshop, I spent the day modifying my portfolio site.
+
+**Thoughts:** Took the blog off my portfolio site, I have some fun new ideas on how to make it a little more interesting!
+
+### April 26 - May 1 : Boston trip, no code =(
+
+### Day 26: May 1, 2017
+
+**Today's Progress**: Brushed up on some Wordpress and prepared for my CGI interview
+
+**Thoughts:** Even though it's not techincally code, I'm counting interview prep as part of the challenge.
+
+### Day 27: May 2, 2017
+
+**Today's Progress**: Interview prep day!
+
+**Thoughts:** Still counting interview prep, I don't care!
+
+### Day 28: May 3, 2017
+
+**Today's Progress**: Had my CGI interview! 
+
+### Day 29: May 4, 2017
+
+**Today's Progress**: Set up an account with Heroku and learned how to deploy an app! Got my STI interview project up an running, even though it still needs a lot of work.
+
+**Thoughts:** Has me more motivated to get back into PHP and SQL now that I have a way to show off a project or two!
 
 
